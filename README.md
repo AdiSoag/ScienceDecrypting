@@ -24,5 +24,9 @@ Options:
 
 Example: python3 decrypt.py -i test.pdf -o test_dec.pdf
 ```
+## Usage2
+```
+下载ScienceDecrypting.exe，直接双击运行，上传需解密的文件即可
+```
 ## 科学文库无限制下载 
 暂不提供，有需要请提issue
